@@ -1,10 +1,10 @@
 # TF-IDF (PLN)
 
-Este repositório contém uma aplicação do Term Frequency - Inverse Document Frequency para um arquivo de texto
+Este repositório contém uma aplicação do Term Frequency - Inverse Document Frequency para arquivoa de texto
 
 ## Conteúdo
 
-- `UsandoTF_IDF.ipynb`: Notebook principal que contém a demosntração da técnica TF-IDF
+- `UsandoTF_IDF.ipynb`: Notebook principal que contém a demonstração da técnica TF-IDF
 - As instruções já se encontram no notebook
 
 ## Como Usar
